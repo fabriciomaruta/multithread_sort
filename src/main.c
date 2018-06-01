@@ -64,7 +64,7 @@ int main() {
   for(int i = 0; i < contador; i++){
     printf("%d ", vetor.v[i]);
   }
-  //printf("\n");
+  printf("\n");
 
 }
 
